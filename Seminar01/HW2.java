@@ -12,7 +12,7 @@ public class HW2 {
         while (number != 0) {
             int temp = number;
             number = sc.nextInt();
-            if (number < 0) {
+            if (number < 0 && temp > 0) {
                 sum += temp;
             }
         }
