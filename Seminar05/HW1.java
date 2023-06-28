@@ -14,7 +14,7 @@ public class HW1 {
         stringMap.putIfAbsent(wanted, 0);
 
         for (int i = 0; i < words.length; i++) {
-            words[i] = words[i].replaceAll("[.,!?;:]", "");
+            words[i] = words[i].replaceAll("[.,!?;:]", "").toLowerCase();
             if (words[i].equals(wanted)) {
                 stringMap.put(wanted, stringMap.get(wanted) + 1);
             }
