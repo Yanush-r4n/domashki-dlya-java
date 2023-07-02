@@ -1,0 +1,142 @@
+Asus
+Business
+A516MA-EJ889
+15.6
+1920x1080 (FullHD)
+60
+Intel Celeron N4020
+8
+256
+Intel UHD Graphics 600
+DOS
+Grey
+
+HP
+Business
+3V5H3EA
+15.6
+1920x1080 (FullHD)
+60
+AMD Ryzen 5 5500U
+8
+256
+AMD Radeon RX Vega 7
+Windows 10
+Black
+
+Acer
+Business
+EX215-32-C7HB
+15.6
+1920x1080 (FullHD)
+60
+Intel Celeron N4500
+8
+256
+Intel UHD Graphics
+DOS
+Black
+
+Acer
+Business
+EX215-32-C7HB
+15.6
+1920x1080 (FullHD)
+60
+Intel Celeron N4500
+8
+256
+Intel UHD Graphics
+DOS
+Silver
+
+Lenovo
+Business
+82KA005LUS
+14.0
+1920x1080 (FullHD)
+60
+Intel Core i5-1135G7
+8
+256
+Intel Iris Xe Graphics G7
+Windows 10 Pro
+Black
+
+Lenovo
+Business
+82KA005LUS
+14.0
+1920x1080 (FullHD)
+60
+Intel Core i5-1135G7
+8
+256
+Intel Iris Xe Graphics G7
+Windows 10 Pro
+Quiet blue
+
+HP
+Workstation
+10J85AV
+15.6
+1920x1080 (FullHD)
+60
+Intel Core i7-10750H
+16
+256
+NVIDIA Quadro
+DOS
+Silver
+
+Acer
+Gaming
+PT516-52S
+16.0
+2560x1600
+240
+Intel Core i9-12900H
+32
+2048
+NVIDIA GeForce RTX 3080 Ti
+Windows 11 Home
+White
+
+Asus
+Gaming
+GV601RW-M6065W
+16.0
+2560x1600
+165
+AMD Ryzen 9 6900HS
+32
+1024
+AMD Radeon RX 6850M XT
+Windows 11 Home
+Grey
+
+Lenovo
+Gaming
+82TD008CRM
+16.0
+2560x1600 (Retina 13")
+165
+Intel Core i7-12800HX
+32
+1024
+NVIDIA GeForce RTX 3070 Ti
+DOS
+White
+
+HP
+Gaming
+70W93AV
+17.3
+2560x1440
+240
+Intel Core i9-13900HX
+16
+1024
+NVIDIA GeForce RTX 4080
+Windows 11 Home
+Black
